@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Jeff
-- 👀 I’m interested in coding and web development
-- 🌱 I’m currently learning Computer Science
-- 📫 How to reach me ...my email mogakaj96@gmail.com
+
+- vvs
 
 
 <!---
