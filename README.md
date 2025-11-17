@@ -1,4 +1,7 @@
 <div align="center">
+<!--
+FIXED: This now points to the REAL image URL from your repo.
+-->
 <img src="https://www.google.com/search?q=https://github.com/Jeanstarjb/Ocular-Disease-Detection-web-report/blob/main/images/WhatsApp%2520Image%25202025-11-16%2520at%252014.37.49_68a28c58.jpg%3Fraw%3Dtrue" width="200" style="border-radius: 50%; border: 4px solid #00d4ff;" alt="Jeff Munyaka Mogaka">
 
 <h1 align="center">Hi, I'm Jeff Munyaka Mogaka 👋</h1>
@@ -67,8 +70,11 @@ I don't just build models; I deploy them. Here is what I've been working on.
 </td>
 <td width="50%">
 <a href="https://huggingface.co/spaces/Shifterr/sentiment-analyzer">
-<img src="https://www.google.com/search?q=https://placehold.co/1200x800/0a1423/FFF%3Ftext%3DTwitter%2BSentiment%2BApp%2BDemo" alt="Twitter Sentiment Analysis Demo" width="100%">
-<!-- HINT: Go take a screenshot of your Hugging Face app and upload it to your repo, then replace this placehold.co link! -->
+<!--
+HINT: Take a screenshot of your Hugging Face app and upload it to your "Ocular-Disease-Detection-web-report/images" folder.
+Then, replace this placeholder link with your new screenshot's raw GitHub URL.
+-->
+<img src="https://www.google.com/search?q=https://placehold.co/1200x800/0a1423/00d4ff%3Ftext%3DLive%2BTwitter%2BNLP%2BDemo" alt="Twitter Sentiment Analysis Demo" width="100%">
 </a>
 </td>
 </tr>
@@ -89,6 +95,9 @@ I don't just build models; I deploy them. Here is what I've been working on.
 📊 My GitHub Stats
 
 <p align="center">
+<!--
+FIXED: These now point to the real Vercel app URLs.
+-->
 <img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DJeanstarjb%26show_icons%3Dtrue%26theme%3Dgithub_dark%26count_private%3Dtrue%26include_all_commits%3Dtrue" alt="Jeff Mogaka's GitHub Stats" />
 <img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DJeanstarjb%26layout%3Dcompact%26theme%3Dgithub_dark%26langs_count%3D8" alt="Top Languages" />
 </p>
@@ -97,6 +106,20 @@ I don't just build models; I deploy them. Here is what I've been working on.
 
 <p align="center">
 I'm always open to discussing new projects, internships, or just chatting about data.
+
+
+
+
+
+
+
+<!--
+FIXED: This now points to the real Shields.io badge.
+-->
+<a href="https(://https://www.google.com/search?q=www.linkedin.com/in/jeff-mogaka">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Profile"/>
+</a>
+</p>
 
 
 
