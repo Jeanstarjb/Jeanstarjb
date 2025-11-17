@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Cyberpunk Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=JEFF%20MUNYAKA%20MOGAKA&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Full-Stack%20Developer&descSize=20&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=JEFF%20MUNYAKA%20MOGAKA&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Engineer&descSize=22&descAlignY=58" width="100%"/>
 
 </div>
 
@@ -9,7 +9,7 @@
   
 ### 『 I'm the one who makes messy data confess 』
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=3rd+Year+BSc+Mathematics+%26+Computer+Science;Building+End-to-End+ML+Pipelines;Turning+Raw+Data+Into+Actionable+Intelligence" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=BSc+Math+%26+Computer+Science+Student;Building+End-to-End+ML+Pipelines;Data+Scientist+%7C+ML+Engineer" alt="Typing SVG" />
 
 </div>
 
@@ -19,10 +19,10 @@
 
 ## 🌐 『 NEURAL NETWORK CONNECTION 』
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/jeff-mogaka-datascientist/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](YOUR_TWITTER_URL)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=000000)](YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:mogakaj96@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jeanstarjb&color=00f7f7&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -34,12 +34,13 @@
 
 ```javascript
 const jeffMogaka = {
-    location: "Nairobi, Kenya 🇰🇪",
+    location: "Nairobi, Kenya 🇰🇰",
     education: [
         "BSc Mathematics & Computer Science @ Kenyatta University",
-        "Data Science Residency @ Moringa School"
+        "Data Science, AI & ML @ Moringa School"
     ],
     currentFocus: "Building production-ready ML systems",
+    specialization: "Machine Learning & Deep Learning",
     philosophy: "Deep academic theory + High-speed practical coding",
     status: "Deploying models, not just training them",
     availability: "Open to collaborations & opportunities"
@@ -135,12 +136,12 @@ Fine-tuned Twitter-RoBERTa for extreme imbalance
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### 『 FULL STACK DEV 』
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### 『 WEB & VERSION CONTROL 』
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -168,10 +169,8 @@ Fine-tuned Twitter-RoBERTa for extreme imbalance
 
 | 🎖️ Achievement | 🔗 Verification |
 |:---|:---:|
-| **Data Science Professional** | [Certificate](YOUR_CERT_URL) |
-| **AWS Cloud Practitioner** | [Badge](YOUR_BADGE_URL) |
-| **Deep Learning Specialization** | [Certificate](YOUR_CERT_URL) |
-| **MLOps Engineering** | [Certificate](YOUR_CERT_URL) |
+| **Data Science, AI & ML Certificate** | [Moringa School](YOUR_CERT_URL) |
+| **BSc Mathematics & Computer Science** | Kenyatta University (In Progress) |
 
 ### 『 GitHub Trophies 』
 <img src="https://github-profile-trophy.vercel.app/?username=Jeanstarjb&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title=MultiLanguage,Commits,Repositories,Stars,PullRequest,Issues,Followers" width="100%"/>
@@ -211,19 +210,19 @@ current_goals = {
 <div align="center">
 
 ### 💼 Open for opportunities in:
-**Machine Learning Engineering | Data Science | AI Research | Full-Stack Development**
+**Machine Learning Engineering | Data Science | AI Research**
 
 ```
-📧 DIRECT_LINK: your.email@example.com
-🔗 NETWORK_NODE: linkedin.com/in/yourprofile
+📧 DIRECT_LINK: mogakaj96@gmail.com
+🔗 NETWORK_NODE: linkedin.com/in/jeff-mogaka-datascientist
 📍 LOCATION: Nairobi, Kenya
 ⏰ TIMEZONE: EAT (UTC+3)
 ```
 
 ### Let's build something incredible together
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeff-mogaka-datascientist/)
+[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mogakaj96@gmail.com)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](YOUR_PORTFOLIO_URL)
 
 ---
@@ -233,14 +232,3 @@ current_goals = {
 <sub>⚡ Powered by Coffee & Neural Networks | Built with 💚 in Kenya</sub>
 
 </div>
-
-
-
-
-
-
-
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/jeff-mogaka">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Profile"/>
-</a>
-</p>
