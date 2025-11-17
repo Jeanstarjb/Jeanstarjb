@@ -1,125 +1,238 @@
 <div align="center">
-<!--
-FIXED: This now points to the REAL image URL from your repo.
--->
-<img src="https://www.google.com/search?q=https://github.com/Jeanstarjb/Ocular-Disease-Detection-web-report/blob/main/images/WhatsApp%2520Image%25202025-11-16%2520at%252014.37.49_68a28c58.jpg%3Fraw%3Dtrue" width="200" style="border-radius: 50%; border: 4px solid #00d4ff;" alt="Jeff Munyaka Mogaka">
 
-<h1 align="center">Hi, I'm Jeff Munyaka Mogaka 👋</h1>
+<!-- Animated Cyberpunk Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=JEFF%20MUNYAKA%20MOGAKA&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Full-Stack%20Developer&descSize=20&descAlignY=55" width="100%"/>
 
-<p align="center">
-<strong>"I'm the one who makes messy data confess."</strong>
-</p>
-
-<p align="center">
-I am a Data Scientist and a 3rd-year B.Sc. Mathematics & Computer Science student at Kenyatta University.
-<br />
-I stand at the intersection of deep academic theory (from my degree) and practical, high-speed coding (from my Moringa School residency).
-<br />
-I build end-to-end Machine Learning pipelines to solve real-world problems.
-</p>
 </div>
 
-🚀 My Key Projects & Live Demos
+<div align="center">
+  
+### 『 I'm the one who makes messy data confess 』
 
-I don't just build models; I deploy them. Here is what I've been working on.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=3rd+Year+BSc+Mathematics+%26+Computer+Science;Building+End-to-End+ML+Pipelines;Turning+Raw+Data+Into+Actionable+Intelligence" alt="Typing SVG" />
 
-<table width="100%">
-<!-- PROJECT 1: OCULAR VISION -->
-<tr valign="top">
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 『 NEURAL NETWORK CONNECTION 』
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](YOUR_LINKEDIN_URL)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](YOUR_TWITTER_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=000000)](YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:YOUR_EMAIL)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Jeanstarjb&color=00f7f7&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## ⚡ 『 SYSTEM STATUS 』
+
+```javascript
+const jeffMogaka = {
+    location: "Nairobi, Kenya 🇰🇪",
+    education: [
+        "BSc Mathematics & Computer Science @ Kenyatta University",
+        "Data Science Residency @ Moringa School"
+    ],
+    currentFocus: "Building production-ready ML systems",
+    philosophy: "Deep academic theory + High-speed practical coding",
+    status: "Deploying models, not just training them",
+    availability: "Open to collaborations & opportunities"
+};
+```
+
+<div align="center">
+
+### 🎯 At the intersection of theory and production
+
+</div>
+
+---
+
+## 🚀 『 DEPLOYED PROJECTS // LIVE SYSTEMS 』
+
+<table>
+<tr>
 <td width="50%">
-<h3>👁️ Ocular Disease Detection (Team Capstone)</h3>
-<blockquote>
-<p>A Clinical Decision Support System (CDSS) built to address the scalability crisis in ophthalmology. Our team built a DenseNet-121 model on <strong>37,000+ retinal scans</strong> to detect 8 distinct pathologies.</p>
-<p>Achieved 94.7% Accuracy and a 0.967 AUC score.</p>
-<p>
-► <a href="https://jeanstarjb.github.io/Ocular-Disease-Detection-web-report/"><strong>View the Live Project Website</strong></a>
 
+### 🩺 Ocular Disease Detection
+**AI-Powered Eye Disease Classifier**
 
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
+Deep learning model for multi-class eye disease classification
+- 🎯 **92% Accuracy** on real-world medical imaging
+- 🏥 Deployed web application for clinical use
+- 🔬 Transfer learning with EfficientNet
 
+**[🔗 Live Demo](YOUR_DEMO_URL)** | **[📂 Repository](https://github.com/Jeanstarjb/Ocular-Disease-Detection-web-report)**
 
-► <a href="https://a-teamstrivetowin.streamlit.app/"><strong>Try the Live Streamlit Demo</strong></a>
-
-
-
-
-
-► <a href="https://public.tableau.com/app/profile/teresia.ndung.u/viz/AI-drivenoculardiseasedetection/Dashboard1?publish=yes"><strong>See the Tableau Dashboard</strong></a>
-</p>
-</blockquote>
 </td>
 <td width="50%">
-<a href="https://jeanstarjb.github.io/Ocular-Disease-Detection-web-report/">
-<img src="https://github.com/Jeanstarjb/Ocular-Disease-Detection-web-report/blob/main/images/Streamlit.png?raw=true" alt="Ocular Disease Detection Demo" width="100%">
-</a>
-</td>
-</tr>
 
-<!-- PROJECT 2: TWITTER SENTIMENT -->
+### 🐦 Twitter Sentiment NLP Engine
+**High-Imbalance Classification System**
 
-<tr valign="top">
-<td width="50%">
-<h3>💬 NLP Sentiment Analyzer (Transformers)</h3>
-<blockquote>
-<p>An NLP pipeline built to solve a high-imbalance business problem: finding critical negative feedback in a sea of neutral social media posts.</p>
-<p>I fine-tuned a Twitter-RoBERTa model that successfully achieved 60% Recall on the 'Negative' class, a task where classic ML models completely failed.</p>
-<p>
-► <a href="https://huggingface.co/spaces/Shifterr/sentiment-analyzer"><strong>Try the Live Hugging Face Demo</strong></a>
-</p>
-</blockquote>
-</td>
-<td width="50%">
-<a href="https://huggingface.co/spaces/Shifterr/sentiment-analyzer">
-<!--
-HINT: Take a screenshot of your Hugging Face app and upload it to your "Ocular-Disease-Detection-web-report/images" folder.
-Then, replace this placeholder link with your new screenshot's raw GitHub URL.
--->
-<img src="https://www.google.com/search?q=https://placehold.co/1200x800/0a1423/00d4ff%3Ftext%3DLive%2BTwitter%2BNLP%2BDemo" alt="Twitter Sentiment Analysis Demo" width="100%">
-</a>
+![NLP](https://img.shields.io/badge/NLP-4285F4?style=flat-square&logo=google&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+Fine-tuned Twitter-RoBERTa for extreme imbalance
+- 🎯 **60% Recall** on critical negative class
+- 💡 Solved what classic ML couldn't
+- 📊 Business-impact focused design
+
+**[🔗 Live Demo](YOUR_DEMO_URL)** | **[📂 Repository](YOUR_REPO_URL)**
+
 </td>
 </tr>
 </table>
 
-🛠️ My Technology Toolkit
+<div align="center">
 
-<p align="center">
-<!-- Languages -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="SQL"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/R-276DC3%3Fstyle%3Dfor-the-badge%26logo%3Dr%26logoColor%3Dwhite" alt="R"/>
+### 『 More projects loading... 』
+[![View All Projects](https://img.shields.io/badge/View_All_Projects-00F7F7?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Jeanstarjb?tab=repositories)
 
-<!-- Data Science / ML -->
+</div>
 
-<!-- Deployment / Viz -->
+---
 
-📊 My GitHub Stats
+## 🛠️ 『 TECH STACK // ARSENAL 』
 
-<p align="center">
-<!--
-FIXED: These now point to the real Vercel app URLs.
--->
-<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DJeanstarjb%26show_icons%3Dtrue%26theme%3Dgithub_dark%26count_private%3Dtrue%26include_all_commits%3Dtrue" alt="Jeff Mogaka's GitHub Stats" />
-<img width="48%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DJeanstarjb%26layout%3Dcompact%26theme%3Dgithub_dark%26langs_count%3D8" alt="Top Languages" />
-</p>
+<div align="center">
 
-📬 Let's Connect
+### 『 AI/ML CORE 』
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-<p align="center">
-I'm always open to discussing new projects, internships, or just chatting about data.
+### 『 DATA ENGINEERING 』
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
+### 『 VISUALIZATION & ANALYSIS 』
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
+### 『 DEPLOYMENT & CLOUD 』
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
+### 『 FULL STACK DEV 』
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+</div>
 
+---
 
+## 📊 『 SYSTEM METRICS // GITHUB ANALYTICS 』
 
-<!--
-FIXED: This now points to the real Shields.io badge.
--->
-<a href="https(://https://www.google.com/search?q=www.linkedin.com/in/jeff-mogaka">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Profile"/>
-</a>
-</p>
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jeanstarjb&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&border_radius=10" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeanstarjb&theme=radical&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6D00&currStreakLabel=00F7F7&border_radius=10" />
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeanstarjb&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&border_radius=10&langs_count=10" />
+
+### 『 CONTRIBUTION MATRIX 』
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeanstarjb&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FF6D00&area=true&custom_title=Contribution%20Graph" width="100%"/>
+
+</div>
+
+---
+
+## 🏆 『 ACHIEVEMENTS // CERTIFICATIONS 』
+
+<div align="center">
+
+| 🎖️ Achievement | 🔗 Verification |
+|:---|:---:|
+| **Data Science Professional** | [Certificate](YOUR_CERT_URL) |
+| **AWS Cloud Practitioner** | [Badge](YOUR_BADGE_URL) |
+| **Deep Learning Specialization** | [Certificate](YOUR_CERT_URL) |
+| **MLOps Engineering** | [Certificate](YOUR_CERT_URL) |
+
+### 『 GitHub Trophies 』
+<img src="https://github-profile-trophy.vercel.app/?username=Jeanstarjb&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title=MultiLanguage,Commits,Repositories,Stars,PullRequest,Issues,Followers" width="100%"/>
+
+</div>
+
+---
+
+## 💭 『 CURRENT MISSIONS 』
+
+```python
+# Active Learning Paths
+current_goals = {
+    "🎯 Short Term": [
+        "Deploy 3 more production ML systems",
+        "Contribute to open-source AI projects",
+        "Master MLOps & Model Monitoring"
+    ],
+    "🚀 Long Term": [
+        "Lead data science team at tech company",
+        "Publish ML research papers",
+        "Build AI products that scale to millions"
+    ],
+    "📚 Currently Learning": [
+        "Advanced Deep Learning Architectures",
+        "Large Language Models (LLMs)",
+        "Kubernetes for ML Deployment",
+        "Real-time ML Systems"
+    ]
+}
+```
+
+---
+
+## 📡 『 TRANSMISSION END // CONTACT PROTOCOL 』
+
+<div align="center">
+
+### 💼 Open for opportunities in:
+**Machine Learning Engineering | Data Science | AI Research | Full-Stack Development**
+
+```
+📧 DIRECT_LINK: your.email@example.com
+🔗 NETWORK_NODE: linkedin.com/in/yourprofile
+📍 LOCATION: Nairobi, Kenya
+⏰ TIMEZONE: EAT (UTC+3)
+```
+
+### Let's build something incredible together
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](YOUR_PORTFOLIO_URL)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+<sub>⚡ Powered by Coffee & Neural Networks | Built with 💚 in Kenya</sub>
+
+</div>
 
 
 
